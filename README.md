@@ -5,11 +5,12 @@ Hi there! I'm Mathieu Céraline.
 
 ## 💡 What I'm doing now
 As of 2024, I'm actively learning and improving my skills in web development and web design. I currently focus on : 
-- Building real world full-stack apps that offer great user experience
-- Leveraging React, mostly Next.js + Tailwind, PlanetScale Data and Prisma
+- Building real world full-stack apps that offer great user experience,
+- Leveraging React, mostly Next.js + Tailwind, PlanetScale Data and Prisma,
 - Developing my UX/UI Knowledge, as well as in SEO, Accessibility and Product Management, 
-- Making my code cleaner, more readable and reusable
-- Playing with Obsidian and learning how to learn in public
+- Making my code cleaner, more readable and reusable,
+- Building my own homelab setup and playing with Docker, Proxmox and VPN stuff, 
+- Diving into Obsidian and learning how to learn in public,
 - Investigating the mysteries of the universe 🔭
 
 Curious on what I'm specifically learning or building lately? [Check out my wehsite](https://mathcrln.com).
